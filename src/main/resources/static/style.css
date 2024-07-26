@@ -1,0 +1,11 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.bg-dark2 {
+    background-image: url('https://i.ibb.co/nDXC6DX/old-elegance-dark.jpg');
+    background-attachment: fixed;
+}
+
